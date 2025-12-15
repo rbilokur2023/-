@@ -17,10 +17,10 @@
     3. Змінили значення ``name`` i ``location`` на свої
     1. Створили файл з розширенням ``.ipynb`` ([1_code.ipynb](./1_code.ipynb))
     1. Скопіювали код та натиснули кнопку ``Run all``
-    1. !["alt text"](./pictures/image1.png "second screenshot")
+    1. !["alt text"](./pictures/image1.png.jpg "first screenshot")
     1. Створили комірку з ``Markdown``
     1. Натиснули ``Run all``, потім змінили комірку за допомогою ``Edit cell``
-    1. ![alt text](./pictures/image2.png ("third screenshot"))
+    1. ![alt text](./pictures/image2.png.jpg ("second screenshot"))
     1. Запитав в ChatGPT, яку б АІ написав першу програму та чому. 
     ([Файл з кодом](ai_code.py))
     - **_Відповідь АІ_**:  
